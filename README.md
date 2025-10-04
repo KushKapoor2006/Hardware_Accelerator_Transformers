@@ -41,7 +41,3 @@ The simulated co-design demonstrates a viable path for efficient LLM inference:
 ### 🚀 Proof-of-Concept Model
 
 This repository contains a Python script (`main.py`) that models the core **dynamic pruning algorithm**. It generates a sample attention matrix, calculates its initial sparsity, applies the pruning logic, and reports the final sparsity and potential impact.
-
-### 📂 File Structure
-
-The repository is organized as follows:
